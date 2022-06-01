@@ -10,8 +10,3 @@ Projeto do curso Typescript da Alura
 
 **Back-end:** TypeScript, JavaScript, Node, Express, API
 
-
-## Demonstração
-
-https://deyvinhoo.github.io/aplicacao-de-negociacoes/
-
