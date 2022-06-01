@@ -1,5 +1,17 @@
-# aplicacao-de-negociacoes
- 
- Eu sou Deyvison Vianna e tenho uma aplicação de negociações em bolsa de valores. É uma aplicação web que permite que cadastremos uma data, uma quantidade, um valor de uma negociação e que possamos exibir no futuro em uma lista e que o usuário possa verificar o que foi cadastrado.
- 
- Projeto do curso Typescript da Alura
+#
+# Aplicação de Negociações
+
+Eu sou Deyvison Vianna e tenho uma aplicação de compra em bolsa de valores. É uma que cadastramos uma data, uma quantidade de uma aplicação web, que permite um valor de uma aplicação web, que permite o futuro em uma lista e que o usuário pode verificar que foi cadastrado.
+
+Projeto do curso Typescript da Alura
+## Stack utilizada
+
+**Front-end:** HTML, CSS, BootStrap
+
+**Back-end:** TypeScript, JavaScript, Node, Express, API
+
+
+## Demonstração
+
+https://deyvinhoo.github.io/aplicacao-de-negociacoes/
+
